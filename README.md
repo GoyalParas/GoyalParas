@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN + AI**
 
-- 👯 I’m looking to collaborate on [Interviewly](https://hirelens-n84wz.sevalla.app/#/)
+- 👯 I’m looking to collaborate on [Interviewly](https://interviewly-3o3s.vercel.app/#/)
 
 - 💬 Ask me about **react, machine learning**
 
